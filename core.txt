@@ -1,0 +1,17 @@
+Book Market
+51
+Enclose In Brackets
+52
+Proper Noun Correction
+53
+Is Tandem Repeat?
+54
+Is Case-Insensitive Palindrome?
+55
+Find Email Domain
+56
+HTML End Tag By Start Tag
+57
+Is MAC48 Address?
+58
+Is Unstable Pair?
